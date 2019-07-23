@@ -4,6 +4,7 @@ module Types
     field :first_name, String, null: false
     field :last_name, String, null: false
     field :age, Integer, null: false
+    field :gender, GenderEnum, null: false
     
     field :full_name, String, null: false
     def full_name
