@@ -2,7 +2,7 @@
 GraphQL Demo Repo
 # GraphQL Demo
 
-This repo contains the GraphQL RoR project used in my GraphQL introduction presentation.
+This repo contains the GraphQL RoR project used in my GraphQL introduction presentation. I've also added the Power Point presentation file: https://github.com/JhottMaster/GraphQLDemo/raw/master/GraphQL%20Intro.pptx
 
 ## "Pre-Demo" Setup Steps
 The only steps not shown in the presentation was the very basic RoR project setup which can be done as follows:
